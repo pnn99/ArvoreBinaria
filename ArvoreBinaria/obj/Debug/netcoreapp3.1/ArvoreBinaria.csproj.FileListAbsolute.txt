@@ -1,0 +1,13 @@
+/home/paulo/AEDs/ArvoreBinaria/bin/Debug/netcoreapp3.1/ArvoreBinaria
+/home/paulo/AEDs/ArvoreBinaria/bin/Debug/netcoreapp3.1/ArvoreBinaria.deps.json
+/home/paulo/AEDs/ArvoreBinaria/bin/Debug/netcoreapp3.1/ArvoreBinaria.runtimeconfig.json
+/home/paulo/AEDs/ArvoreBinaria/bin/Debug/netcoreapp3.1/ArvoreBinaria.runtimeconfig.dev.json
+/home/paulo/AEDs/ArvoreBinaria/bin/Debug/netcoreapp3.1/ArvoreBinaria.dll
+/home/paulo/AEDs/ArvoreBinaria/bin/Debug/netcoreapp3.1/ArvoreBinaria.pdb
+/home/paulo/AEDs/ArvoreBinaria/obj/Debug/netcoreapp3.1/ArvoreBinaria.csprojAssemblyReference.cache
+/home/paulo/AEDs/ArvoreBinaria/obj/Debug/netcoreapp3.1/ArvoreBinaria.AssemblyInfoInputs.cache
+/home/paulo/AEDs/ArvoreBinaria/obj/Debug/netcoreapp3.1/ArvoreBinaria.AssemblyInfo.cs
+/home/paulo/AEDs/ArvoreBinaria/obj/Debug/netcoreapp3.1/ArvoreBinaria.csproj.CoreCompileInputs.cache
+/home/paulo/AEDs/ArvoreBinaria/obj/Debug/netcoreapp3.1/ArvoreBinaria.dll
+/home/paulo/AEDs/ArvoreBinaria/obj/Debug/netcoreapp3.1/ArvoreBinaria.pdb
+/home/paulo/AEDs/ArvoreBinaria/obj/Debug/netcoreapp3.1/ArvoreBinaria.genruntimeconfig.cache
